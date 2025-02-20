@@ -64,6 +64,10 @@ console.log(newArray)
 
 
 
+console.log("my array always right")
+
+
+
 
 
 
